@@ -18,12 +18,12 @@ This project develops a **machine learning model** to predict **customer churn**
 │   ├── preprocess.py     # Data preprocessing & feature engineering  
 │   ├── train.py          # Model training script  
 │   ├── evaluate.py       # Model evaluation script  
-│── 📂 models             # Saved trained models  
-│── 📂 notebooks          # Jupyter notebooks for EDA & model development  
+│── 📂 models             # Saved trained models 
+│── 📂 results 		  # Recorded results 
+│── 📂 slides 		  # TA sessions presentations 
 │── README.md             # Project description  
-│── requirements.txt      # Dependencies (scikit-learn, pandas, numpy, etc.)  
+│── requirements.txt      # Dependencies (scikit-learn, pandas, numpy, etc.)
 ```
-
 
 ## **🔍 Research Questions**
 
@@ -31,7 +31,6 @@ This project develops a **machine learning model** to predict **customer churn**
 2. **How do transaction patterns correlate with churn?**
 3. **Does the length of a customer’s relationship affect churn likelihood?**
 4. **How does geographic location impact churn?**
-
 
 ## **👥 Team Members**
 
